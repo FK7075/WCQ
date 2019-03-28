@@ -1,0 +1,6 @@
+E:\ASP.NET\WCQ\WxqUtil\bin\Debug\WxqUtil.dll
+E:\ASP.NET\WCQ\WxqUtil\bin\Debug\WxqUtil.pdb
+E:\ASP.NET\WCQ\WxqUtil\obj\Debug\WxqUtil.csprojAssemblyReference.cache
+E:\ASP.NET\WCQ\WxqUtil\obj\Debug\WxqUtil.csproj.CoreCompileInputs.cache
+E:\ASP.NET\WCQ\WxqUtil\obj\Debug\WxqUtil.dll
+E:\ASP.NET\WCQ\WxqUtil\obj\Debug\WxqUtil.pdb

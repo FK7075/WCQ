@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCQ", "WCQ\WCQ.csproj", "{555211FD-3F29-4FE0-87CC-6B96D2CC6418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WxqUtil", "WxqUtil\WxqUtil.csproj", "{263E2D61-E03D-4246-AA39-8C6F5011ADF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555211FD-3F29-4FE0-87CC-6B96D2CC6418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555211FD-3F29-4FE0-87CC-6B96D2CC6418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555211FD-3F29-4FE0-87CC-6B96D2CC6418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555211FD-3F29-4FE0-87CC-6B96D2CC6418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263E2D61-E03D-4246-AA39-8C6F5011ADF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263E2D61-E03D-4246-AA39-8C6F5011ADF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263E2D61-E03D-4246-AA39-8C6F5011ADF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263E2D61-E03D-4246-AA39-8C6F5011ADF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0DBD0B-6F9D-4168-B000-30225C9AFE39}
+	EndGlobalSection
+EndGlobal

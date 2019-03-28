@@ -1,0 +1,13 @@
+E:\ASP.NET\WCQ\WCQ\bin\Debug\WCQ.exe.config
+E:\ASP.NET\WCQ\WCQ\bin\Debug\WCQ.exe
+E:\ASP.NET\WCQ\WCQ\bin\Debug\WCQ.pdb
+E:\ASP.NET\WCQ\WCQ\obj\Debug\WCQ.csprojAssemblyReference.cache
+E:\ASP.NET\WCQ\WCQ\obj\Debug\WCQ.Form1.resources
+E:\ASP.NET\WCQ\WCQ\obj\Debug\WCQ.Properties.Resources.resources
+E:\ASP.NET\WCQ\WCQ\obj\Debug\WCQ.csproj.GenerateResource.cache
+E:\ASP.NET\WCQ\WCQ\obj\Debug\WCQ.csproj.CoreCompileInputs.cache
+E:\ASP.NET\WCQ\WCQ\obj\Debug\WCQ.exe
+E:\ASP.NET\WCQ\WCQ\obj\Debug\WCQ.pdb
+E:\ASP.NET\WCQ\WCQ\bin\Debug\WxqUtil.dll
+E:\ASP.NET\WCQ\WCQ\bin\Debug\WxqUtil.pdb
+E:\ASP.NET\WCQ\WCQ\obj\Debug\WCQ.csproj.CopyComplete
